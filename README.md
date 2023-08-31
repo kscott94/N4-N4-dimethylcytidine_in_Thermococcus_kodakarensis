@@ -1,5 +1,4 @@
-# N4-N4-dimethylcytidine_in_Thermococcus_kodakarensis
-A unique N4,N4-dimethyl cytidine in the ribosome decoding center enhances thermophily in Thermococcus kodakarensis
+# A unique N4,N4-dimethyl cytidine (m4,2C) in the ribosome decoding center enhances thermophily in *Thermococcus kodakarensis*
 
 Kristin A. Fluke(1), Ryan T. Fuchs(2), Yueh-Lin Tsai(2), Victoria Talbott(1), Liam Elkins(1), Hallie P. Febvre(3), Nan Dai(2), Eric J. Wolf(2), Ryan Czarny(3), Jackson Schiltz(3), G. Brett Robb(2), P. Shing Ho(3), Ivan R. Corrêa Jr.(2), Thomas J. Santangelo(3,4)
 
