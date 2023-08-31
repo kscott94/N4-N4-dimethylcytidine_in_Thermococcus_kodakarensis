@@ -5,4 +5,4 @@ Kristin A. Fluke(1), Ryan T. Fuchs(2), Yueh-Lin Tsai(2), Victoria Talbott(1), Li
 1. Cell and Molecular Biology Graduate Program, Colorado State University, Fort Collins, CO, United States, 80523
 2. New England Biolabs Inc., Beverly, Massachusetts, United States, 01915
 3. Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, CO, United States, 80523
-4. Correspondence: thomas.santangelo@colostate.edu; ORCiD: 0000-0003-4559-3244.
+4. Correspondence: thomas.santangelo@colostate.edu
